@@ -8,8 +8,7 @@ h1 {
 .title {
   color: teal;
 }
-div.static {
-  position: static;
+div {
   width: 300px;
   border: 15px solid blue;
   padding: 50px;
