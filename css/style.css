@@ -9,6 +9,7 @@ h1 {
   color: teal;
 }
 div {
+  position: relative;
   width: 300px;
   border: 15px solid blue;
   padding: 50px;
