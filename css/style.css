@@ -35,5 +35,5 @@ img {
 #topnav {
     display: flex;
     justify-content: flex-end;
-    float: right;
+    float: left;
 }
