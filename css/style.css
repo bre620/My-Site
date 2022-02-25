@@ -27,7 +27,7 @@ img {
     height: auto;
     margin: 3px;
     padding: 3px;
-    position:fixed;
+    position: absolute;
     top:0;
     left:0;
 }
