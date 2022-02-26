@@ -9,11 +9,10 @@ h1 {
   color: teal;
 }
 div {
-  position: relative;
-  width: 300px;
-  border: 15px solid blue;
-  padding: 50px;
-  margin: 20px;
+    display: inline-block; 
+    width:200px; 
+    border:1px solid; 
+    vertical-align:top
 }
 
 img {
