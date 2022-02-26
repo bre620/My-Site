@@ -8,12 +8,6 @@ h1 {
 .title {
   color: teal;
 }
-div {
-    display: inline-block; 
-    width:200px; 
-    border:1px solid; 
-    vertical-align:top
-}
 
 img {
     max-width: 100%;
