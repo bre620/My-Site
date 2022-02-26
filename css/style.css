@@ -28,6 +28,9 @@ img {
     position: static;
     top:0;
     left:0;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
 }
 
 #topnav {
