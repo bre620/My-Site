@@ -22,9 +22,12 @@ img {
 }
 
 #logo {
-    position: fixed;
     top:0;
     left:0;
+  width: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
 }
 
 #topnav {
