@@ -30,6 +30,10 @@ img {
     display: flex;
     justify-content: flex-end;
     float: left;
+  background: url(https://content.codecademy.com/projects/innovation-cloud/bg.jpg) no-repeat center center; 
+  background-size: cover;
+  height: 800px;
+  text-align: center; 
 }
 
 .flex-container {
