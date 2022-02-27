@@ -32,8 +32,7 @@ img {
     float: left;
   background: url(https://content.codecademy.com/projects/innovation-cloud/bg.jpg) no-repeat center center; 
   background-size: cover;
-  text-align: center; 
-    height: 800px; 
+  text-align: center;
 }
 
 .flex-container {
